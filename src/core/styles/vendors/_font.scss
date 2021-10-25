@@ -1,0 +1,59 @@
+@import '../abstracts/variables';
+
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Thin.ttf') format("opentype");
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-ExtraLight.ttf') format("opentype");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Light.ttf') format("opentype");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Regular.ttf') format("opentype");
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Medium.ttf') format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-SemiBold.ttf') format("opentype");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Bold.ttf') format("opentype");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-ExtraBold.ttf') format("opentype");
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: $san-serif;
+    src: url('../../../assets/fonts/Inter/static/Inter-Black.ttf') format("opentype");
+    font-weight: 900;
+}

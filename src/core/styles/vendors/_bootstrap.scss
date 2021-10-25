@@ -1,0 +1,16 @@
+@import '../abstracts/variables';
+@import "~/node_modules/bootstrap/scss/bootstrap";
+
+/**
+ * OVERRIDE BOOTSTRAP'S CONFIG
+ * Follow: https://getbootstrap.com/docs/5.0/customize/sass/
+ *
+ */
+
+ $font-size-root: 10px;
+
+:root {
+    --bs-font-sans-serif: 'Inter', sans-serif;
+}
+
+ 
